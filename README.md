@@ -217,8 +217,7 @@ For major changes, please open an issue first to discuss.
 
 ---
 
-# 📜 License
-MIT License (optional — you may choose another)
+
 
 ---
 
